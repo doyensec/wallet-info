@@ -8,7 +8,7 @@ This repo contains a sample web service which simplifies access to information a
 - Information about a transaction's target (`to`) address
 - Information about the Dapp's domain's TLS certificate
 
-In addition to that, the service implements a mechanizm for verifying the association between the Dapp's domain and it's smart contracts using a `dapp_file`. You can read more information about this mechanism [here](https://blog.doyensec.com/2023/03/28/wallet-info.html).
+In addition to that, the service implements a mechanizm for verifying the association between the Dapp's domain and its smart contracts using a `dapp_file`. You can read more information about this mechanism [here](https://blog.doyensec.com/2023/03/28/wallet-info.html).
 
 The service is meant to be used by [wallet](https://en.wikipedia.org/wiki/Cryptocurrency_wallet) applications, providing users information about the Dapp they're interacting with, and information about the transaction they're about to confirm.
 
