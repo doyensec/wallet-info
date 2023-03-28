@@ -1,0 +1,4 @@
+debug: true
+
+etherscan_endpoint: ""
+etherscan_api_key: ""
